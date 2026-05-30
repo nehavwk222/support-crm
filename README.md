@@ -4,7 +4,7 @@ A full-stack customer support ticket management system built for the Datastraw T
 
 ## Live Demo
 
-> Deployed URL goes here after deployment
+> Application: https://support-crm-8soq.onrender.com/
 
 ## Tech Stack
 
