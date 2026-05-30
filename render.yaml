@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: support-crm
+    env: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && node server.js
+    envVars:
+      - key: PORT
+        value: 3001
+      - key: NODE_ENV
+        value: production

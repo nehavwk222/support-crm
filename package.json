@@ -1,0 +1,9 @@
+{
+  "name": "support-crm",
+  "version": "1.0.0",
+  "description": "Customer Support CRM — Datastraw Assessment",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "install": "cd backend && npm install"
+  }
+}
